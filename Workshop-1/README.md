@@ -14,3 +14,22 @@ This will be implemented along the semester, we create a timeline where we need 
 ### Component Diagram
 
 ![Component Diagram](RoboArm_Components_Diagram.png)
+#
+
+### Feedback Loop Identify Object
+
+![Identify Object](FBL_identify_object.png)
+#
+
+### Feedback Loop Grap Piece
+
+![Grap Piece](FBL_grap.png)
+#
+
+### Feedback Loop Transporting Part
+
+![Transporting Part](FBL_transporting.png)
+
+### Feedback Loop Drop Piece
+
+![Drop Piece](FBL_drop.png)
