@@ -1,4 +1,4 @@
-# Workshop 1
+# Workshop 2
 
 ### Simulation of an autonomous and adaptive robotic arm Description
 This project is about making a robotic arm that can see, recognize, and grab objects. The system has different parts. The sensor module collects information from cameras and sensors. The image processing module uses OpenCV and TensorFlow to find objects, understand their shape, and locate them.
